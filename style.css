@@ -1,0 +1,11 @@
+
+body{
+  text-align: center;
+}
+
+
+canvas  {
+border : 3px solid rgb(14, 156, 97);
+width: 400px;
+height: 300px;
+}
